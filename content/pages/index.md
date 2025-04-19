@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Coffee Shop da Tia Rosa
-    subtitle: ''
+    subtitle: >-
+      Nosso Coffee Shop tem a missão de trazer um momento bom para nossos
+      clientes
     styles:
       self:
         height: auto
