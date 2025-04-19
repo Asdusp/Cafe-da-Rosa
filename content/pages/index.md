@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: Coffee Shop da Tia Rosa
     subtitle: >-
-      Nosso Coffee Shop tem a missão de trazer um momento bom para nossos
-      clientes
+      Nosso Coffee Shop tem como missão de trazer um momento bom para nossos
+      clientes.
     styles:
       self:
         height: auto
