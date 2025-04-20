@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Café
 colors: colors-a
-date: '2025-03-20'
+date: '2025-04-20'
 client: Awesome client
 description: Nosso café é feito com grãos especiais e com gostinho de interior.
 featuredImage:
