@@ -1,44 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/favicon.svg",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Nossa História",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Produtos",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Informações",
-                "url": "/blog"
-            }
-        ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            }
-        ],
-        "styles": {
-            "self": {
-                "width": "full"
-            }
-        }
-    },
     "footer": {
         "type": "Footer",
         "primaryLinks": [
