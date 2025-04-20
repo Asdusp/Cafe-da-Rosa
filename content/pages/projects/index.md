@@ -27,7 +27,7 @@ projectFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Projects
+    title: Produtos
     subtitle: ''
     actions: []
     colors: colors-f
