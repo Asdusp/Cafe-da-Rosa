@@ -4,7 +4,7 @@ title: 'Acesso à Internet '
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: 'Acesso à internet '
+description: 'Acesso a rede mundial de computatores, faça suas pesquisas, estudos e etc.'
 featuredImage:
   type: ImageBlock
   url: /images/servinternet_xl.png
