@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Acesso à Internet '
 colors: colors-a
-date: '2023-04-22'
+date: '2023-12-22'
 client: Awesome client
 description: 'Acesso a rede mundial de computadores, faça suas pesquisas, estudos e etc.'
 featuredImage:
