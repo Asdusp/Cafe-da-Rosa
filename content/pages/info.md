@@ -18,7 +18,7 @@ sections:
       loja física com internet e mais café.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/linda-hamilton-chuck-horiz.jpg
       altText: Hero image
     styles:
       self:
