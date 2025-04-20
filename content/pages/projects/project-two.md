@@ -7,7 +7,7 @@ client: Awesome client
 description: Nosso café é feito com grãos especiais e com gostinho de interior.
 featuredImage:
   type: ImageBlock
-  url: /images/WhatsApp Image 2025-02-22 at 16.34.59.jpeg
+  url: /images/images.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
