@@ -7,7 +7,7 @@ client: Awesome client
 description: 'Acesso à internet '
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/servinternet_xl.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
