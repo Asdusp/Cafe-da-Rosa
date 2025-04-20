@@ -12,5 +12,5 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/servinternet_xl.png
-  altText: Project image
+  altText: Produto 2
 ---
