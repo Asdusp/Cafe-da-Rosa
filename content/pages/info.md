@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Café da Tia Rosa
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
